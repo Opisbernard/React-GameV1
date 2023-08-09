@@ -11,21 +11,6 @@ The game is built entirely with ReactJS ⚛ and Redux Toolkit 🔧.  <br/>
   * [Author](#author)
   * [License](#license)
 
-## Configuration and Setup
-
-In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
-
-- Open the project in your prefered code editor.
-- Go to terminal -> New terminal (If you are using VS code)
-
-In the first terminal
-
-```
-$ cd mario-jump-game
-$ npm install 
-$ npm start
-
-```
 ##  Key Features
 
 - Mobile Responsive 

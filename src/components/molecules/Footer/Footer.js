@@ -2,8 +2,8 @@ import "./Footer.css";
 
 const Footer = () => {
   return (
-    <div className="author">Created by {new Date().getFullYear()} {" "}
-      <a href="https://github.com/Opisbernard" target="_blank" rel="noreferrer" >Bernard Opis</a>
+    <div className="author">| Created by Bernard Opis |{new Date().getFullYear()} {" "}
+      <a href="https://bernardopis.netlify.app/" target="_blank" rel="noreferrer" > All Rights Reserved |</a>
     </div>
   )
 }
